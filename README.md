@@ -216,6 +216,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 ### Security & Systems
 
 - [aws-security-skills](https://github.com/basitalisandhu/aws-security-skills) - Claude Code skills for AWS security: account audit, SCP guardrails, blast-radius landing zones, IAM least privilege, Security Hub triage.
+- [compliance-evidence-skills](https://github.com/basitalisandhu/compliance-evidence-skills) - Claude Code skills for compliance evidence: pack GitHub, AWS and Microsoft 365 exports with hash manifests, map them to ISO 27001 and SOC 2 identifiers, draft narratives that cite evidence or say not assessable.
 - [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/computer-forensics) - Digital forensics analysis and investigation techniques.
 - [file-deletion](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/file-deletion) - Secure file deletion and data sanitization methods.
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
